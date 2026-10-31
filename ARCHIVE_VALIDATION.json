@@ -1,0 +1,149 @@
+{
+  "status": "complete",
+  "completed_volumes": 17,
+  "pending_volumes": 0,
+  "failures": 0,
+  "logical_files": 24599,
+  "unique_payloads": 19718,
+  "logical_mapping_complete": true,
+  "unique_payload_volume_assignment": true,
+  "checks": [
+    {
+      "archive": "code_and_docs.tar.gz",
+      "files": 13286,
+      "payload_bytes": 1104788743,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_001.tar.gz",
+      "files": 25,
+      "payload_bytes": 523392017,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_002.tar.gz",
+      "files": 15,
+      "payload_bytes": 533107011,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_003.tar.gz",
+      "files": 15,
+      "payload_bytes": 517473385,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_004.tar.gz",
+      "files": 380,
+      "payload_bytes": 534894357,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_005.tar.gz",
+      "files": 552,
+      "payload_bytes": 535820068,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_006.tar.gz",
+      "files": 558,
+      "payload_bytes": 534928773,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_007.tar.gz",
+      "files": 618,
+      "payload_bytes": 535137001,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_core_008.tar.gz",
+      "files": 354,
+      "payload_bytes": 277831603,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_001.tar.gz",
+      "files": 14,
+      "payload_bytes": 512353984,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_002.tar.gz",
+      "files": 153,
+      "payload_bytes": 494346672,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_003.tar.gz",
+      "files": 347,
+      "payload_bytes": 496292301,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_004.tar.gz",
+      "files": 349,
+      "payload_bytes": 505100863,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_005.tar.gz",
+      "files": 835,
+      "payload_bytes": 536766567,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_006.tar.gz",
+      "files": 1279,
+      "payload_bytes": 536768325,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_007.tar.gz",
+      "files": 514,
+      "payload_bytes": 536197018,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    },
+    {
+      "archive": "large_supplement_008.tar.gz",
+      "files": 449,
+      "payload_bytes": 313478248,
+      "passed": true,
+      "actual_extraction_hash_passed": true,
+      "method": "one sequential decompression; safe regular-file extraction; hash computed on extracted stream; no second payload pass"
+    }
+  ],
+  "scientific_execution": false
+}
